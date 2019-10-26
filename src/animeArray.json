@@ -1,0 +1,52 @@
+[
+    {
+        "id": "01",
+        "name": "Ryuko Matoi",
+        "src":  "https://vignette.wikia.nocookie.net/vsbattles/images/1/1d/Kill_la_Kill_Ryūko_Matoi_%28Render%29.png/revision/latest/scale-to-width-down/400?cb=20190126060255"
+    },
+    {
+        "id": "02",
+        "name": "Zero Two",
+        "src":  "https://vignette.wikia.nocookie.net/darling-in-the-franxx/images/8/83/C_zerotwo_stand.png/revision/latest?cb=20180617052011"
+    },
+    {
+        "id": "03",
+        "name": "Kyoko Kirigiri",
+        "src":  "https://vignette.wikia.nocookie.net/danganronpa/images/8/8c/Kyouko_Kyoko_Kirigiri_Halfbody_Sprite_%287%29.png/revision/latest/scale-to-width-down/228?cb=20170519083200"
+    },
+    {
+        "id": "04",
+        "name": "Chiaki Nanami",
+        "src":  "https://vignette.wikia.nocookie.net/danganronpa/images/3/34/Chiaki_Nanami_Halfbody_Sprite_%2812%29.png/revision/latest/scale-to-width-down/185?cb=20170818170156"
+    },
+    {
+        "id": "05",
+        "name": "Maki Harukawa",
+        "src":  "https://vignette.wikia.nocookie.net/danganronpa/images/f/fa/Danganronpa_V3_Maki_Harukawa_Halfbody_Sprite_%2852%29.png/revision/latest/scale-to-width-down/185?cb=20180507033545"
+    },
+    {
+        "id": "06",
+        "name": "Ann Takamaki",
+        "src":  "https://vignette.wikia.nocookie.net/megamitensei/images/3/3c/P5RAnnTakamaki.png/revision/latest/scale-to-width-down/299?cb=20190726142128"
+    },
+    {
+        "id": "07",
+        "name": "Futaba Sakura",
+        "src":  "https://vignette.wikia.nocookie.net/megamitensei/images/e/ef/P5DSN_-_Futaba.png/revision/latest/scale-to-width-down/326?cb=20180302190246"
+    },
+    {
+        "id": "08",
+        "name": "Makoto Niijima",
+        "src":  "https://vignette.wikia.nocookie.net/megamitensei/images/6/60/P5R_Makoto.png/revision/latest/scale-to-width-down/237?cb=20190816155833"
+    },
+    {
+        "id": "09",
+        "name": "Edelgard Von Hresvelg",
+        "src":  "https://fireemblemwiki.org/w/images/thumb/c/c3/FEH_Edelgard_The_Future_01.png/200px-FEH_Edelgard_The_Future_01.png"
+    },
+    {
+        "id": "10",
+        "name": "Byleth",
+        "src":  "https://fireemblemwiki.org/w/images/thumb/0/0d/FEH_Byleth_Proven_Professor_01.png/200px-FEH_Byleth_Proven_Professor_01.png"
+    }
+]
