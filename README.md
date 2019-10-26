@@ -9,6 +9,5 @@ View the deployed product on <a href="https://github.com/Shibby220/ClickyGame">G
 ## Built With
 
 - <a href="https://www.npmjs.com/package/react">React</a>
-- <a href="https://www.npmjs.com/package/react-dom">React DOM</a>
-- <a href="https://www.npmjs.com/package/react-scripts">React Scripts</a>
+- <a href="https://nodejs.org/en/">NodeJS</a>
 - <a href="https://www.npmjs.com/package/gh-pages">GitHub Pages</a>
